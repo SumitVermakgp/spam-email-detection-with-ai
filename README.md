@@ -2,4 +2,7 @@
 
 ## Get the Data
 
-[Link to Enron Data](https://www.google.com)https://www.kaggle.com/wanderfj/enron-spam
+1. Download the data from here
+[Link to Enron Data](https://www.kaggle.com/wanderfj/enron-spam) 
+
+2. Copy the downloaded data to `data` folder
